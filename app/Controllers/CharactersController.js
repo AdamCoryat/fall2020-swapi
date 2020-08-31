@@ -22,6 +22,7 @@ export default class CharactersController {
     charactersService.next()
   }
 
+
   previous() {
     charactersService.previous()
   }
